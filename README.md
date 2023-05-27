@@ -1,5 +1,5 @@
 # Python basico 01
-Este es un proyecto de ejemplo que muestra cómo centrar los videos en un archivo README.
+Este es un proyecto que muestra resolucion de ejercicios del programa de Ciencia de Datos con Python.
 
 ## Ejercicio 01
 <div align="center">
