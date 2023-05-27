@@ -14,3 +14,9 @@ Este es un proyecto que muestra resolucion de ejercicios del programa de Ciencia
     <img src="https://img.youtube.com/vi/fEF_K-kiq_w/0.jpg" alt="Video Ejercicio 02-04">
   </a>
 </div>
+
+## link Ejercicio 02-04 
+
+<div align="center">
+  [Ver video](https://www.youtube.com/watch?v=fEF_K-kiq_w)
+</div>
